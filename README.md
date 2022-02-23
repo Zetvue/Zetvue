@@ -1,6 +1,4 @@
-hi i am zetvue
-i made this readme because github forced me to
--  ***help me***
-
-to uh know me more ig
-[link](https://zetvue.carrd.co)
+## Hey! :wave:
+I'm Zetvue.
+I don't code, but I do produce music!
+It's best if you visit my website. The link is [here.](zetvue.carrd.co)
