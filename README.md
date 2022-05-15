@@ -1,6 +1,7 @@
-## Hey! :wave:
-I'm Zetvue.
+# Hello there!
 
-I don't code, but I do produce music!
+I'm Zetvue. I am a producer and graphic designer, and I also contribute to many things!
 
-It's best if you visit my website. The link is [here.](zetvue.carrd.co)
+Some of my contributions include [Microcontrollers' Alternatives](https://microcontrollersdev.github.io/alternatives) and design for [SkyClient](https://hypixel.net/threads/skyclient-easily-install-and-update-skyblock-mods-and-packs.3731617/). 
+
+If you want to know more about me, [visit my website!](zetvue.carrd.co)
