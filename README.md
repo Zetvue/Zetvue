@@ -8,16 +8,20 @@
 ## I'm Aidan, also known as Zetvue. I am a musician, designer and (very) novice web dev.
 
 ### Languages I know or am learning
-<img src="images/html5.svg" width="40px" alt="HTML5">
-<img src="images/css3.svg" width="40px" alt="CSS3">
-<img src="images/md.svg" height="50px" alt="Markdown">
+<img src="images/html5.svg" width="2%" alt="HTML5"> HTML
+
+<img src="images/css3.svg" width="2%" alt="CSS3"> CSS
+
+<img src="images/md.svg" width="2%" alt="Markdown"> Markdown
 
 ### Tools I use
-<img src="images/github.svg" width="40px" alt="Github">
-<img src="images/vscode.svg" width="40px" alt="Visual Studio Code">
+<img src="images/github.svg" width="2%" alt="Github"> Github
+
+<img src="images/vscode.svg" width="2%" alt="Visual Studio Code"> Visual Studio Code
 
 
 ## Other stuff I do
+
 ### I make music!
 
 You can listen to my tracks on [YouTube][youtube], [Bandcamp][bandcamp], [SoundCloud][soundcloud], or [Spotify][spotify].
