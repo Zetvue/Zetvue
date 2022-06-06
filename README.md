@@ -8,7 +8,9 @@
 ## I'm Aidan, also known as Zetvue. I am a musician, designer and (very) novice web dev.
 
 ### Languages I know or am learning
-<img src="images/html5.svg" width="40px" alt="HTML5">' '<img src="images/css3.svg" width="40px" alt="CSS3">' '<img src="images/md.svg" height="50px" alt="Markdown">
+<img src="images/css3.svg" width="40px" alt="CSS3">
+<img src="images/md.svg" height="50px" alt="Markdown">
+![HTML5](images/html5.svg){ width: "40px"; }
 
 ### Tools I use
 <img src="images/github.svg" width="40px" alt="Github">
