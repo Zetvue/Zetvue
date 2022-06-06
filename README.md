@@ -10,7 +10,7 @@
 ### Languages I know or am learning
 <img src="images/css3.svg" width="40px" alt="CSS3">
 <img src="images/md.svg" height="50px" alt="Markdown">
-![HTML5](images/html5.svg){: height="75px" width="300px" align="left"}
+![HTML5](images/html5.svg)
 
 ### Tools I use
 <img src="images/github.svg" width="40px" alt="Github">
