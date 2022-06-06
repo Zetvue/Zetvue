@@ -7,10 +7,10 @@
 I'm Zetvue. I am a musician, designer and (very) novice webdev.
 
 ## Languages I am learning 
-<img src="images/html5.svg" width="40px" alt="HTML5">    <img src="images/css3.svg" width="40px" alt="CSS3">
+<img src="images/html5.svg" width="40px" alt="HTML5"><img src="images/css3.svg" width="40px" alt="CSS3"><img src="images/md.svg" height="50px" alt="Markdown">
 
 ## Technologies I am learning
-<img src="images/github.svg" width="40px" alt="Github">    <img src="images/vscode.svg" width="40px" alt="Visual Studio Code">
+<img src="images/github.svg" width="40px" alt="Github"><img src="images/vscode.svg" width="40px" alt="Visual Studio Code">
 
 
 ## Other stuff I do
