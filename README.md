@@ -4,7 +4,7 @@
 
 # Hi!
 
-I'm Zetvue. I am a musician, designer and (very) novice webdev.
+I'm Aidan, also known by my online alias Zetvue. I am a musician, designer and (very) novice webdev.
 
 ## Languages I am learning (and familiar with)
 <img src="images/html5.svg" width="40px" alt="HTML5"><img src="images/css3.svg" width="40px" alt="CSS3"><img src="images/md.svg" height="50px" alt="Markdown">
