@@ -10,7 +10,7 @@
 ### Languages I know or am learning
 <img src="images/html5.svg" width="2%" alt="HTML5"> HTML
 
-<img src="images/css3.svg" width="2%" alt="CSS3"> CSS
+<img src="images/css3.svg" width="2%" alt="CSS3"> CSS with <img src="images/twcss.svg" width="2%" alt="Tailwind CSS"> Tailwind
 
 <img src="images/md.svg" width="2%" alt="Markdown"> Markdown
 
