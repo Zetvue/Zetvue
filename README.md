@@ -2,9 +2,10 @@
 
 ![Banner](images/banner.png)
 
+# Hi!
+
 </div>
 
-# Hi!
 ## I'm Aidan, also known as Zetvue. I am a musician, designer and (very) novice web dev.
 
 ### Languages I know or am learning
