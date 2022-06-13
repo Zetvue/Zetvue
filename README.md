@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](images/banner.png)
+![Banner](images/github_banner.png)
 
 # Hi!
 
