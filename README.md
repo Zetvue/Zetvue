@@ -1,4 +1,10 @@
+<div align="center">
 
+![Banner](images/banner.png)
+
+# Hi!
+
+</div>
 
 ## I'm Aidan, also known as Zetvue. I am a musician, designer and (very) novice web dev.
 
