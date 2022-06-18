@@ -6,7 +6,7 @@
 
 </div>
 
-## I'm Aidan, also known as Zetvue. I am a musician, designer and (very) novice web dev.
+## I'm Zetvue. I am a musician, designer and (very) novice web dev.
 
 ### Languages I know or am learning
 <img src="images/html5.svg" width="2%" alt="HTML5"> HTML
