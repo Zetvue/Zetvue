@@ -42,4 +42,4 @@ For other media I am on, visit [my website][website].
 [deftu]: https://github.com/Deftu
 [nottoxic]: https://github.com/nottoxicdev
 
-[website]: https://zetvue.carrd.co
+[website]: https://zetvue.github.io/
