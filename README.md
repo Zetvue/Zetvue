@@ -31,7 +31,7 @@ You can listen to my tracks on [YouTube][youtube], [Bandcamp][bandcamp], [SoundC
 
 Notable examples of my design work are my own logo, icons for [SkyClient][skyclient] and various other logos for other people, such as [Deftu][deftu] and [NotToxic][nottoxic].
 
-For other media I am on, visit [my website][website].
+For other media I'm on, visit [my website][website].
 
 [youtube]: https://youtube.com/c/Zetvue
 [bandcamp]: https://zetvue.bandcamp.com
@@ -40,6 +40,6 @@ For other media I am on, visit [my website][website].
 
 [skyclient]: https://skyclient.co
 [deftu]: https://github.com/Deftu
-[nottoxic]: https://github.com/nottoxicdev
+[nottoxic]: https://nottoxicdev.netlify.app
 
 [website]: https://zetvue.github.io/
