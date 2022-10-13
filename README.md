@@ -29,7 +29,7 @@ You can listen to my tracks on [YouTube][youtube], [Bandcamp][bandcamp], [SoundC
 
 ### I also do design.
 
-Notable examples of my design work are my own logo, icons for [SkyClient][skyclient] and various other logos for other people, such as [Deftu][deftu] and [Nelertile][nelertile].
+Notable examples of my design work are my own logo, icons for [SkyClient][skyclient] and various other logos for other people such as [Nelertile][nelertile].
 
 For other media I'm on, visit [my website][website].
 
@@ -39,7 +39,6 @@ For other media I'm on, visit [my website][website].
 [spotify]: https://open.spotify.com/artist/7o8JZ8DuQ9uCEpq5xM8C8K
 
 [skyclient]: https://skyclient.co
-[deftu]: https://github.com/Deftu
 [nelertile]: https://nelertile.netlify.app
 
 [website]: https://zetvue.github.io/
