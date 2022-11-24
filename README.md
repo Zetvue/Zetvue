@@ -1,6 +1,6 @@
 <div align="center">
 
-![Zetvue Github Banner](images/github.png)
+![Zetvue Github Banner](images/github again.png)
 
 # Hi!
 
