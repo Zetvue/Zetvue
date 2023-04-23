@@ -33,12 +33,12 @@ Notable examples of my design work are my own logo, icons for [SkyClient][skycli
 
 For other media I'm on, visit [my website][website].
 
-[youtube]: https://youtube.com/c/Zetvue
+[youtube]: https://youtube.com/@Zetvue
 [bandcamp]: https://zetvue.bandcamp.com
 [soundcloud]: https://soundcloud.com/zetvue
 [spotify]: https://open.spotify.com/artist/7o8JZ8DuQ9uCEpq5xM8C8K
 
 [skyclient]: https://skyclient.co
-[nelertile]: https://nelertile.netlify.app
+[nelertile]: https://nelertile.github.io/
 
 [website]: https://zetvue.github.io/
