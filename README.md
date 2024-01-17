@@ -13,8 +13,6 @@
 
 <img src="images/css3.svg" width="2%" alt="CSS3"> CSS 
 
-<img src="images/md.svg" width="2%" alt="Markdown"> Markdown
-
 ### Tools I use
 <img src="images/github.svg" width="2%" alt="Github"> Github
 
